@@ -59,22 +59,3 @@ int leggi_str(char parole[][MAX], int quanti)
     }while(((strcmp(parole[i - 1], "") != 0)) && (i < quanti));
     return i;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
